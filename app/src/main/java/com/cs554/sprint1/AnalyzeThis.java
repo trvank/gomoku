@@ -1,7 +1,7 @@
 package com.cs554.sprint1;
 
 /**
- * Created by Thomas on 2/4/2016.
+ * Created by Thomas on 2/4/2016
  */
 public class AnalyzeThis {
 

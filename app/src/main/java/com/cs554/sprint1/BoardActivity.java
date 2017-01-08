@@ -220,16 +220,7 @@ public class BoardActivity extends AppCompatActivity {
                     timer.start();
                 }
             }
-            /*if (winner(row, col)) {  // First, check for a winner.
-                int currentPlayer=0;
-                if (currentPlayer == WHITE)
-                    gameOver("WHITE wins the game!");
-                else
-                    gameOver("BLACK wins the game!");
 
-
-                w.dispose();
-                return;*/
         }
 
 
